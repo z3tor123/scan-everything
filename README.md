@@ -27,4 +27,8 @@ bash install.sh
 ```
 ---
 
+** 4 - now install the python file < website-attack > and run it !**
+
+---
+
 this tool by z3tor123 ,(: 
